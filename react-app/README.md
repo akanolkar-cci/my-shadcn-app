@@ -22,7 +22,7 @@ Follow the steps below to set up the project locally.
 First, clone the repository:
 
 ```
-git clone https://github.com/your-username/my-shadcn-app.git
+git clone https://github.com/akanolkar-cci/my-shadcn-app.git
 cd my-shadcn-app
 ```
 
@@ -48,17 +48,18 @@ By default, the app will be available at 'http://localhost:3000/'.
 
 ## Project Structure
 ```plaintext
-my-shadcn-app/
+my-shadcn-ui-app/
 ├── public/                 # Public assets
 ├── src/
 │   ├── components/         # Reusable UI components (Button, etc.)
 │   │   └── ui/
-│   │       └── button.jsx  # ShadCN UI Button component
-│   ├── App.js              # Main App component
+│   │       └── button.tsx  # ShadCN UI Button component
+│   ├── types/
+│   │   └── index.ts        # General types for the project
+│   ├── App.tsx              # Main App component
 │   ├── index.css           # Tailwind CSS entry point
-│   └── index.js            # Entry point for the React app
+│   └── index.tsx            # Entry point for the React app
 ├── tailwind.config.js      # Tailwind CSS configuration
-├── postcss.config.js       # PostCSS configuration
 └── package.json            # Project dependencies and scripts
 ```
 
