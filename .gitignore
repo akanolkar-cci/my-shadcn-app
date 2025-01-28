@@ -2,7 +2,7 @@
 
 # dependencies
 /nextjs-app/node_modules
-/nextjs-app/node_modules
+/react-app/node_modules
 /react-app/public
 /.pnp
 .pnp.js
