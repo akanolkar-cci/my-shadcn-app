@@ -72,7 +72,17 @@ This project uses ShadCN UI for UI components. Currently, there is a basic examp
 ## Tailwind CSS
 Tailwind CSS is set up with the default configuration in tailwind.config.js and the src/index.css file. You can modify the tailwind.config.js file to customize the theme or add plugins.
 
-## Acknowledgements
+## Screenshots
+Here are some screenshots of the app:
+
+### 1. Sign In
+![Sign In](https://github.com/akanolkar-cci/my-shadcn-app/raw/main/quote-app/quotes-app/screenshots/sign-in.png)
+
+### 2. Sign Up
+![Sign Up](https://github.com/akanolkar-cci/my-shadcn-app/raw/main/quote-app/quotes-app/screenshots/sign-up.png)
+
+### 3. Quote List
+![Quote List](https://github.com/akanolkar-cci/my-shadcn-app/raw/main/quote-app/quotes-app/screenshots/quote-list.png)
 
 ## Learn More
 
